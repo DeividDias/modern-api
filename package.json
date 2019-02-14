@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "nodemon": "^1.18.5"
+  }
+}
